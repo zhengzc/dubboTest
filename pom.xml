@@ -13,6 +13,7 @@
     <module>dubboProvider</module>
     <module>dubboClient</module>
     <module>dubboInterface</module>
+    <module>rpc</module>
   </modules>  
 
   <properties>
